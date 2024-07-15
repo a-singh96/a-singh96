@@ -21,8 +21,8 @@ My investigative mindset and deep interest in computer systems have fueled my pa
 | Incident Response          | <a href="https://docs.google.com/document/d/1Mg0f8kx-EeG1yPtVbMKucxmFZsLLNSZQHVu2Mwj2CYE/edit?usp=sharing"> Incident Response Plan</a>|
 | Vulnerability Assessment | <a href="https://docs.google.com/document/d/1kfDuXhT86a9LCIlPx8ZJITb7pJTwllp8w2j32bSzzJY/edit?usp=sharing">Risk Assessment</a>|
 | OSINT          | <a href="https://docs.google.com/document/d/1osw2flFA-GLlyinpZr_ATRyJv6XXYqOA3uyOUOU_-CQ/edit?usp=sharing"> Information Gathering Report </a>|
-| Encryption & Decryption tool in Python      | SOC Automation Lab|
-| Assessing Application Security & SDLC                  | SOC Automation Lab|
+| Python      | <a href="https://drive.google.com/drive/folders/1zkHovApsln-kxixuPm1w7HTX6Oopf9lg?usp=drive_link"> Encryption & Decryption Tool </a>|
+| SQL                  | <a href="https://docs.google.com/document/d/1ljdZIpQL88lnBXlt-vFPPYyvDNXQ3w4br6KppJ3sLxQ/edit?usp=sharing"> SQL Project </a>|
 
 
 ## Certifications
